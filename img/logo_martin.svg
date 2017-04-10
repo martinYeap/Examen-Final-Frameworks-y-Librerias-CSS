@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg3704"
+   width="79.374512mm"
+   height="26.404699mm"
+   viewBox="0 0 299.99816 99.797289"
+   sodipodi:docname="logo_martin.svg"
+   inkscape:version="0.92.0 r15299">
+  <metadata
+     id="metadata3710">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3708" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     id="namedview3706"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="237.18184"
+     inkscape:cy="54.174507"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3704"
+     units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     style="fill:#ff6600;stroke:#000000;stroke-width:0.52135569px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 49.627931,93.47146 18.853593,58.12087 299.92745,22.93277 Z"
+     id="path3728"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.24451637px;line-height:13.03388786px;font-family:Aharoni;-inkscape-font-specification:'Aharoni, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52135575"
+     x="88.544983"
+     y="57.757648"
+     id="text3716"
+     transform="matrix(1.0112097,-0.13098157,0.13637069,0.97125052,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan3714"
+       x="88.544983"
+       y="57.757648"
+       style="stroke-width:0.52135575">Martin Escalante</tspan></text>
+  <path
+     sodipodi:type="spiral"
+     style="fill:#000080;fill-rule:evenodd;stroke:#000000"
+     id="path3724"
+     sodipodi:cx="308.06781"
+     sodipodi:cy="458.84744"
+     sodipodi:expansion="1"
+     sodipodi:revolution="3"
+     sodipodi:radius="114.29021"
+     sodipodi:argument="-18.070869"
+     sodipodi:t0="0.019401196"
+     d="m 308.98492,460.86626 c 0.47559,6.26149 -8.49174,5.29424 -11.6073,2.8375 -7.96411,-6.28 -4.9176,-18.43142 1.89466,-24.21788 11.44109,-9.71827 28.64973,-4.80906 36.82846,6.62681 11.67315,16.32195 4.74215,38.98906 -11.35897,49.43906 -21.12349,13.70962 -49.37688,4.6965 -62.04963,-16.09113 -15.78522,-25.89311 -4.66263,-59.78939 20.82328,-74.66022 30.64696,-17.88226 70.21628,-4.6358 87.27081,25.55544 19.99229,35.39191 4.61347,80.65231 -30.2876,99.88139 -40.13138,22.11076 -91.09453,4.5942 -112.49198,-35.01976 -24.23499,-44.86721 -4.57705,-101.54111 39.75191,-125.10256 49.60055,-26.36335 111.99093,-4.56147 137.71315,44.48407 21.15046,40.3284 14.00574,90.64395 -16.04794,124.51962"
+     transform="matrix(0.19241269,0.47478833,0.48994878,-0.17554012,-232.26123,-20.63083)" />
+</svg>
