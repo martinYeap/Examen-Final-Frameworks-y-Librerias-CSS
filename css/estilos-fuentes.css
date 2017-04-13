@@ -1,0 +1,136 @@
+@font-face {
+  font-family: 'Philosopher';
+  font-weight: 400;
+  font-style: normal;
+  src: url('fonts/Philosopher-regular/Philosopher-regular.eot');
+  src: url('fonts/Philosopher-regular/Philosopher-regular.eot?#iefix') format('embedded-opentype'),
+       local('Philosopher Regular'),
+       local('Philosopher-regular'),
+       url('fonts/Philosopher-regular/Philosopher-regular.woff2') format('woff2'),
+       url('fonts/Philosopher-regular/Philosopher-regular.woff') format('woff'),
+       url('fonts/Philosopher-regular/Philosopher-regular.ttf') format('truetype'),
+       url('fonts/Philosopher-regular/Philosopher-regular.svg#Philosopher') format('svg');
+}
+
+@font-face {
+	font-family: 'icomoon';
+	src:url('icons/icomoon.eot?-xh107b');
+	src:url('icons/icomoon.eot?#iefix-xh107b') format('embedded-opentype'),
+		url('icons/icomoon.ttf?-xh107b') format('truetype'),
+		url('icons/icomoon.woff?-xh107b') format('woff'),
+		url('icons/icomoon.svg?-xh107b#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+a, figcaption
+header .info,
+.telefono,
+section .slogan,
+.menu,
+.procedimientos a,
+.blog a,
+.tabs,
+.titulo{
+	font-size: inherit;
+    font-family: 'Philosopher';
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-home:before {
+	content: "\e900";
+}
+.icon-newspaper:before {
+	content: "\e904";
+}
+.icon-quill:before {
+	content: "\e907";
+}
+.icon-images:before {
+	content: "\e90e";
+}
+.icon-address-book:before {
+	content: "\e944";
+}
+.icon-bubble:before {
+	content: "\e96b";
+}
+.icon-users:before {
+	content: "\e972";
+}
+.icon-user-check:before {
+	content: "\e975";
+}
+.icon-search:before {
+	content: "\e986";
+}
+.icon-leaf:before {
+	content: "\e9a4";
+}
+.icon-airplane:before {
+	content: "\e9af";
+}
+.icon-accessibility:before {
+	content: "\e9b2";
+}
+.icon-menu:before {
+	content: "\e9bd";
+}
+.icon-menu3:before {
+	content: "\e9bf";
+}
+.icon-menu4:before {
+	content: "\e9c0";
+}
+.icon-circle-up:before {
+	content: "\ea41";
+}
+.icon-circle-right:before {
+	content: "\ea42";
+}
+.icon-circle-down:before {
+	content: "\ea43";
+}
+.icon-circle-left:before {
+	content: "\ea44";
+}
+.icon-google-plus2:before {
+	content: "\ea89";
+}
+.icon-facebook2:before {
+	content: "\ea8d";
+}
+.icon-instagram:before {
+	content: "\ea90";
+}
+.icon-twitter2:before {
+	content: "\ea92";
+}
+.icon-youtube:before {
+	content: "\ea97";
+}
+.icon-blogger2:before {
+	content: "\eaba";
+}
+.icon-skype:before {
+	content: "\eac6";
+}
+.icon-linkedin:before {
+	content: "\eac8";
+}
+.icon-pinterest2:before {
+	content: "\ead1";
+}
